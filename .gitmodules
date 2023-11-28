@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:neuroengineering/neuroengineering.github.io.git
+[submodule "themes/hugo-icarus-theme"]
+	path = themes/hugo-icarus-theme
+	url = git@github.com:neuroengineering/hugo-icarus-theme.git
